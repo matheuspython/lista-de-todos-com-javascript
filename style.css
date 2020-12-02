@@ -10,7 +10,6 @@ body {
 }
 
 #app {
-    width: 100%;
     margin: 0 auto;
 }
 
@@ -33,11 +32,6 @@ ul li a {
     border-radius: 8px;
     background-color: rgb(186, 190, 238);
     color: rgb(28, 0, 105);
-}
-
-.adicionar-elementos {
-    margin: 0 auto;
-    width: 100%;
 }
 
 input[type=text] {
